@@ -1,13 +1,13 @@
 
+ 
+![zigamacash](https://github.com/user-attachments/assets/5f331781-19f8-4eea-af2a-34797269c392)
+
+
+
 
 # Zigamacash 💰
 
-[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=yellow)](https://vitejs.dev/)
-[![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)](https://capacitorjs.com/)
- 
-![zigamacash](https://github.com/user-attachments/assets/5f331781-19f8-4eea-af2a-34797269c392)
+
 
 
 **Zigamacash** is a cool smartphone app built on **Ionic** and **React**, turning your phone into a virtual piggy bank. Put your savings behind a lock for a limited duration—because saving should be a reward, not a constraint.
@@ -20,7 +20,10 @@
 - **Cross-Platform**: One codebase, two platforms (iOS & Android) with Capacitor.
 
 ---
-
+[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=yellow)](https://vitejs.dev/)
+[![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)](https://capacitorjs.com/)
 ## 🛠 Tech Stack
 | Tool            | Purpose                          | Logo                                                                 |
 |-----------------|----------------------------------|----------------------------------------------------------------------|
